@@ -30,3 +30,7 @@ def load_aux_dataframe(worksheet,duplicates_subset):
   return df
 
 st.title("Aqui eu atualizei o meu código!!!!!!!!")
+
+df = load_main_dataframe("BI")
+
+st.dataframe(df)
