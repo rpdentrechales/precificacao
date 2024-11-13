@@ -29,4 +29,4 @@ def load_aux_dataframe(worksheet,duplicates_subset):
 
   return df
 
-st.title("Teste Streamlit Thales!!!!!!! Vai github!!!!!!!!!!!")
+st.title("Aqui eu atualizei o meu código!!!!!!!!")
