@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import datetime
+from streamlit_gsheets import GSheetsConnection
 
 st.set_page_config(page_title="Sample Page 1", page_icon="💎",layout="wide")
 
